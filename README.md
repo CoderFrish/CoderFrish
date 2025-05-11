@@ -3,8 +3,10 @@
 一名来自中国广东的学生。\
 主要写java和kotlin的一些小玩意，Java和Kotlin是跳着学的。
 
-### Top languages
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderFrish&layout=compact&locale=cn)
+<div>
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=CoderFrish&show_icons=true&locale=cn" />
+  <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderFrish&layout=compact&locale=cn" />
+</div>
 
 ### Programming Language
 
@@ -30,6 +32,3 @@
 ### Framework
 ![springboot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=springboot&logoColor=white)
 ![vue](https://img.shields.io/badge/Netty-green?style=for-the-badge&logo=vue.js&logoColor=white)
-
-### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderFrish&show_icons=true&locale=cn)](https://github.com/CoderFrish)
