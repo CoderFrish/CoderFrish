@@ -4,8 +4,8 @@
 主要写java和kotlin的一些小玩意，Java和Kotlin是跳着学的。
 
 <div>
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=CoderFrish&show_icons=true&locale=cn" />
-  <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderFrish&layout=compact&locale=cn" />
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=CoderFrish&show_icons=true&locale=cn"  style="height: 210px"/>
+  <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderFrish&layout=compact&locale=cn" style="height: 210px"/>
 </div>
 
 ### Programming Language
