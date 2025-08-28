@@ -38,10 +38,7 @@
 ![springboot](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white)
 ![vue](https://img.shields.io/badge/-Vue-green?style=for-the-badge&logo=vue.js&logoColor=white)
 
-## Stats
-
 ### GitHub
 
 ![](https://raw.githubusercontent.com/CoderFrish/CoderFrish/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/CoderFrish/CoderFrish/master/generated/languages.svg)
-
