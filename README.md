@@ -33,7 +33,7 @@
 
 ### Framework
 
-一下是我主要使用的框架
+以下是我主要使用的框架
 
 ![springboot](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white)
 ![vue](https://img.shields.io/badge/-Vue-green?style=for-the-badge&logo=vue.js&logoColor=white)
