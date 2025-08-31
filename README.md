@@ -4,7 +4,7 @@
 
 ### 主要使用的操作系统
 
-我使用Windows 操作系统接6年（从我第一次学习编程开始算起来的，那时候我三年级），KaliLinux主要是学习渗透技术和计算机底层原理用的，主要用WSL运行。
+我使用Windows 操作系统接近6年（从我第一次学习编程开始算起来的，那时候我三年级），KaliLinux主要是学习渗透技术和计算机底层原理用的，主要用WSL运行。
 
 ![windows](https://img.shields.io/badge/-Windows11-red?style=for-the-badge&logo=materialdesignicons&logoColor=white)
 ![kalilinux](https://img.shields.io/badge/-KaliLinux-red?style=for-the-badge&logo=kalilinux&logoColor=white)
