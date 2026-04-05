@@ -1,6 +1,8 @@
 ### Hi there, I'm [CoderFrish!](https://www.enaium.cn) 👋
 
-来自中国广东的一名高中一年级学生，喜欢玩游戏《Minecraft》，偶尔也会玩玩《崩坏：星穹铁道》和《明日方舟》，主要使用java、kotlin编程，有时候会用Python、TypeScript、C、Go、Groovy写点乱七八糟的/doge
+来自中国广东的一名高中学生，喜欢玩游戏《Minecraft》，偶尔也会玩玩《崩坏：星穹铁道》和《明日方舟》、《明日方舟：终末地》，主要使用java、kotlin编程，有时候会用Python、TypeScript、C、Go、Groovy写点乱七八糟的/doge
+
+现在主要正在学习assembly和c语言以及计算机底层相关，java、Python、TypeScript偶尔会碰一下。
 
 ### 主要使用的操作系统
 
