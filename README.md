@@ -4,6 +4,8 @@
 
 现在主要正在学习assembly和c语言以及计算机底层相关，java、Python、TypeScript偶尔会碰一下。
 
+注: 该GitHub账号在除了贡献代码或者查资料外，基本不太会把自己的项目代码传上GitHub，大多会传上[codeberg](https://codeberg.org/CoderFrish)
+
 ### 主要使用的操作系统
 
 我使用Windows 操作系统接近6年（从我第一次学习编程开始算起来的，那时候我三年级），KaliLinux主要是学习渗透技术和计算机底层原理用的，主要用WSL运行。
