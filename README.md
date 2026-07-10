@@ -4,6 +4,8 @@
 
 现在主要正在学习assembly和c语言以及计算机底层相关，java、Python、TypeScript偶尔会碰一下。
 
+如果你想赞助我的话，可以前往我的爱发电主页里面 [传送门] (https://ifdian.net/a/Frish2021)，谢谢你们的支持。
+
 注: 该GitHub账号在除了贡献代码或者查资料外，基本不太会把自己的项目代码传上GitHub，大多会传上[codeberg](https://codeberg.org/CoderFrish)
 
 ### 主要使用的操作系统
